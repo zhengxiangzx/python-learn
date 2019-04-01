@@ -1,0 +1,4 @@
+{
+  "input_path": "hdfs://BJ-RT-DEV-NS/tmp/tests/test_data/taptap_review",
+  "output_path": "hdfs://BJ-RT-DEV-NS/tmp/gps/out"
+}
