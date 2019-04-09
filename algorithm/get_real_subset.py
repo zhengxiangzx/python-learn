@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+"""
+求一个集合的所有非空子集
+通过递归的方式实现
+"""
+
+
 def get_subset(subset, result=[]):
     if len(subset) <= 1:
         return None
